@@ -1,0 +1,2 @@
+alice:password:::Alice:/home/alice:/bin/bash
+bob:password:::Bob:/home/bob:/bin/bash
