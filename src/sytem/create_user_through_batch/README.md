@@ -16,4 +16,15 @@
   alice:password:::Alice:/home/alice:/bin/bash
   bob:password:::Bob:/home/bob:/bin/bash
 ```
+4. save it :wq
 
+5. still in termianal type
+```
+ $ sudo newusers users.txt
+```
+This import all users in  **users.txt** file
+
+6. To confirm check
+```
+  $ cat /etc/passwd
+```
