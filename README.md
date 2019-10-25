@@ -29,8 +29,8 @@ update, install, configure a Linux system.
 # How to contribute
 
 * fork the repository
-* clone it to you PC
-* create a branch
+* clone in you pc
+* create a new branch
 * colaborate with code or documentation
 * make pull request
 * and congrat!  
