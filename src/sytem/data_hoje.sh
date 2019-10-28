@@ -1,5 +1,5 @@
 #!/bin/sh
 
-data_hoje = 'date'
+data= 'date'
 
-echo $data_hoje
+echo $data
