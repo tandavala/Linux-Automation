@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# você precisa estar como root para executar esse script sem erro.
 echo Atualizando repositórios..
 if ! apt-get update
 then
